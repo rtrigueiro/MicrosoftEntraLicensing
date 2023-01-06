@@ -1,0 +1,2 @@
+# MicrosoftEntraLicensing
+MicrosoftEntraLicensing
